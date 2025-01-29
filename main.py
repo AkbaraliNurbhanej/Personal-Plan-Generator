@@ -79,7 +79,7 @@ plan_chains = {
 
 # Streamlit UI
 st.title("Personal Plan Generator")
-st.subheader("Generate a step-by-step plan to master a skill using Generative AI")
+st.subheader("Generate a step-by-step plan to master a skill using Generative AI😉")
 
 # Model selection
 selected_model = st.selectbox(
